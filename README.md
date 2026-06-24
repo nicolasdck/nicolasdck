@@ -1,4 +1,4 @@
-# Salut, je suis Nicolas 👋
+
 ### Développeur Senior (15 ans d'expérience) | Spécialiste Écosystème JavaScript & Multiplateforme
 
 Développeur passionné et autonome, j’interviens sur l’ensemble du cycle de vie des applications : du web au mobile, en passant par le desktop et l’e-commerce. Mon objectif est de transformer des architectures et besoins complexes en expériences utilisateurs fluides, robustes et performantes.
